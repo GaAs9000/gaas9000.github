@@ -8,12 +8,9 @@ main:
     url: /
     weight: 10
   - name: Blogs
-    url: /#talks
+    url: blogs/
     weight: 11
   - name: Experience
     url: experience/
     weight: 20
-  - name: Photo
-    url: /#photo
-    weight: 30
 
