@@ -31,20 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'jiashen3@illinois.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jasonrrr9009/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/GaAs9000
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/jiashen-ren-54b506348
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -141,10 +137,9 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-
+---
 
 # About Me section
 about_me: |
   Jiashen Ren is pursuing his dual bachelor's degrees from Zhejiang University and the University of Illinois Urbana-Champaign, majoring in Electrical Engineering. And he enjoys photography and traveling in his free time.
 
----
