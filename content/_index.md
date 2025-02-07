@@ -20,6 +20,9 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: white
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: markdown
     content:
       title: '📚 My Research'
