@@ -140,6 +140,5 @@ awards:
 ---
 
 # About Me section
-about_me: |
   Jiashen Ren is pursuing his dual bachelor's degrees from Zhejiang University and the University of Illinois Urbana-Champaign, majoring in Electrical Engineering. And he enjoys photography and traveling in his free time.
 
