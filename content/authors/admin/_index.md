@@ -93,8 +93,8 @@ work:
       - Graded assignments and tests and documented results into filing system. 
       - Helped students through one-to-one and small group tutoring.
       - Led discussion sessions, review sessions, and set up worksheet problems.
-    
-      Supervised by [Prof.Thomas Honold](https://zjui.intl.zju.edu.cn/en/node/775)
+    supervisor: Prof.Thomas Honold
+    supervisor_url: https://zjui.intl.zju.edu.cn/en/node/775
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
