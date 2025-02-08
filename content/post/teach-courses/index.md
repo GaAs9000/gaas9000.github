@@ -7,7 +7,7 @@ authors:
 tags:
   - Math285
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Prof.Thomas Honold'
 ---
 
 ## Q2:Frobenius method
