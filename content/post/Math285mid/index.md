@@ -8,7 +8,7 @@ authors:
 tags:
   - Math285
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Prof.Thomas Honold'
 show_breadcrumb: true
 ---
 
