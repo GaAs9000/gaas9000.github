@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/GaAs9000
   - icon: brands/linkedin
-    url: https://www.linkedin.com/jiashen-ren-54b506348
+    url: https://www.linkedin.com/in/jiashen-ren-54b506348/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
