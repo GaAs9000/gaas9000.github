@@ -26,7 +26,7 @@ sections:
       title: Math285
       filters:
         folders:
-          - Math285
+          - blogs/Math285
     design:
       view: article-grid
       columns: 2
