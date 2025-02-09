@@ -94,7 +94,6 @@ b)
 
     where \(a_0 = b_0 = 1\) (normalization condition).
 
-```markdown
 {{</* spoiler text="👉 Why we need to check the difference between the roots" */>}}
 
 这是 Frobenius 方法的一个核心结论。 让我解释一下为什么当指标根之差不是整数时，可以保证有两个线性无关的级数解：
@@ -165,7 +164,8 @@ $$
 
 当指标根之差不是整数时，Frobenius 方法直接给出的两个级数解，由于其首项（leading term）的指数不同且差不是整数，保证了它们是线性无关的。 这是 Frobenius 方法的一个漂亮且重要的结果，使得在正则奇点附近寻找级数解成为可能。
 {{</* /spoiler */>}}
-```
+
+
 **3. Solving for the First Solution y1(x):**
 
 *   **Substitute into Original Equation:** Substitute the series forms of \(y_1(x)\), \(y_1'(x)\), and \(y_1''(x)\) into the original differential equation.
