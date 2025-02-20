@@ -12,7 +12,7 @@ sections:
   - block: collection
     id: photography
     content:
-      title: photography
+      title: Photography
       text: Time scares us all – its constant forward motion, the way things fade away.  This fear is at the heart of why we become photographers.  We're essentially trying to preserve things. We use photography to halt time, to make a single moment last forever.
       filters:
         folders:
