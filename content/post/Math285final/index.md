@@ -329,3 +329,9 @@ Since neither $y_1(x)$ nor $y_2(x)$ (and neither $y_1^-(x)$ nor $y_2^-(x)$) can 
 • **General Solution on $\mathbb{R}$:** $y(x) \equiv 0$ (the zero solution). This is because non-trivial solutions cannot maintain twice differentiability at $x = 0$, and thus do not satisfy the requirement for solutions of the differential equation on $\mathbb{R}$.
 
 ### Q3 
+
+### Q4
+
+### Q5
+
+### Q6
