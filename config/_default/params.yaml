@@ -58,3 +58,7 @@ features:
     enable: true
   privacy_pack:
     enable: false
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
