@@ -11,7 +11,7 @@ abstract: 'Fall Break 2024'
 authors:
   - admin
 
-tags: [exchangestudent, America]
+tags: [exchange_student, America]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -33,7 +33,7 @@ url_slides: 'https://slideshare.net'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides : "example-slides"
+slides : "SanDiego"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -46,4 +46,3 @@ slides : "example-slides"
 Click on the **Slides** button above to view all the pictures from the trip.
 {{% /callout %}}
 
-slides : "example-slides"
