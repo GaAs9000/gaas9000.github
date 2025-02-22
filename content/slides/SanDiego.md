@@ -14,6 +14,10 @@ slides:
 
 ---
 
+## If you find it hard to see the full screen, please adjust your browser's zoom level to a suitable size.
+
+---
+
 {{< slide background-image="/uploads/photo/SanDiego/San Diego_1.png" >}}
 
 ---
